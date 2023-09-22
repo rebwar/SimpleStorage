@@ -1,2 +1,2 @@
 # SimpleStorage
-create and develop a Contract using Solidity
+create and develope a Contract using Solidity
